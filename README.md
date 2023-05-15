@@ -15,11 +15,11 @@ I am a CSE undergraduate currently in the sixth semester of my Bachelor of Techn
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=animay7860&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=animay7860&icon=0&color=0)](https://visitcount.itsvg.in)
